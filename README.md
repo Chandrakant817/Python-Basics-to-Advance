@@ -1,3 +1,3 @@
-# Python-Basics to Advance
+# Python Basics to Advance
 
 ### Explained Python From Very basics to Advance with code.
