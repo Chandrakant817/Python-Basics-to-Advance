@@ -40,4 +40,4 @@
 
 These concepts form the foundation of Python programming and are essential for understanding and writing Python code effectively.
 
-
+References: https://www.linkedin.com/feed/update/urn:li:activity:7077140584938844160/
