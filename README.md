@@ -2,8 +2,6 @@
 
 ### Explained Python From Very basics to Advance with code.
 
-![image](https://user-images.githubusercontent.com/69152112/204140717-e03c6531-07f0-40eb-aca9-735ebfb34dd2.png)
-
 ### 𝗧𝗵𝗲 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀 𝗼𝗳 𝗣𝘆𝘁𝗵𝗼𝗻:
 
 📍 Variables: Variables are used to store data values. They are created by assigning a value to a name using the "=" operator.
@@ -38,6 +36,8 @@
 
 📍 𝗠𝗼𝗱𝘂𝗹𝗲𝘀 𝗳𝗼𝗿 𝗖𝗼𝗺𝗺𝗼𝗻 𝗧𝗮𝘀𝗸𝘀: Python has a rich ecosystem of modules for various tasks, including web development, data analysis, machine learning, and more.
 
-These concepts form the foundation of Python programming and are essential for understanding and writing Python code effectively.
+### Python Cheat Shet 
+![image](https://github.com/Chandrakant817/Python-Basics-to-Advance/assets/69152112/26501958-6afd-4839-9c2e-7b089bc84b12)
+
 
 References: https://www.linkedin.com/feed/update/urn:li:activity:7077140584938844160/
